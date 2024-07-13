@@ -23,6 +23,6 @@
 }
 
 .btnDelete:hover {
-  background-color: lightgray;
+  background-color: lightslategrey;
   transform: scale(1.05);
 }
